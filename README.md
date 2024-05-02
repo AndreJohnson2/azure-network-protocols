@@ -31,13 +31,13 @@ In this tutorial, I observe various network traffic to and from Azure Virtual Ma
 1. (Windows And Linux VM created Provison Of Resources Complete)
 (https://github.com/AndreJohnson2/azure-network-protocols/assets/168602796/9c8d62b3-1297-45aa-a25c-2e18ad5a184b)
 
-1. (Cont'd) Windows And Linux VM created Provison Of Resources Complete)
+1. (1 Cont'd) Windows And Linux VM created Provison Of Resources Complete)
 (https://github.com/AndreJohnson2/azure-network-protocols/assets/168602796/5118dc7d-2d82-4ed9-9927-5fbf9ab374a6)
 
 2. (Wired Into VM1 using Public IP Address)
 (https://github.com/AndreJohnson2/azure-network-protocols/assets/168602796/6a200ce4-c8b5-40e6-9ee2-b8c0728e4cd8)
 
-3. (Installed WireShark On CM And Now Capturing Live Traffic.)
+3. (Installed WireShark On VM And Now Capturing Live Traffic.)
 (https://github.com/AndreJohnson2/azure-network-protocols/assets/168602796/9f5a828b-3e47-44ed-b36a-c7476e3c46d3)
 
 4. (Filtering For ICMP Traffic Without Pinging VM2 yet)
